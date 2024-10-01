@@ -9,7 +9,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 from skimage import data, io
 
-# Aquí comentario
+# Aquí comentario cambiado
 
 imagen = io.imread(r'C:\Users\ikerf\Desktop\Upiita\7mo semestre\Patrones\Imagenes\objetos1.jpg')
 # imagen = data.astronaut()
